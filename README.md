@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate mern stack developer from India</h3>
 
-<img  align="right" src="https://media.tenor.com/2nKSTDDekOgAAAAM/coding-kira.gif?username=anni20211&label=Profile%20views&color=0e75b6&style=flat" alt="anni20211" />
+<img  align="center" src="https://media.tenor.com/2nKSTDDekOgAAAAM/coding-kira.gif?username=anni20211&label=Profile%20views&color=0e75b6&style=flat" alt="anni20211" />
 
 
 
