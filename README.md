@@ -1,7 +1,7 @@
 
 
 ![](
-https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300)
+https://www.shutterstock.com/image-vector/web-development-landing-page-people-260nw-1838445880.jpg)
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate mern stack developer from India</h3>
 
