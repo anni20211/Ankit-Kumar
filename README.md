@@ -1,5 +1,9 @@
 
-<img  align="center"  src="https://www.shutterstock.com/image-vector/web-development-landing-page-people-260nw-1838445880.jpg"  />
+
+<div  >
+  <img  align="center"  src="https://www.shutterstock.com/image-vector/web-development-landing-page-people-260nw-1838445880.jpg"  />
+</div>
+
 <!-- ![](
 ) -->
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
