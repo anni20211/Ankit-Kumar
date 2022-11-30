@@ -50,6 +50,13 @@
 
 [![@anni20211's Holopin board](https://holopin.me/anni20211)](https://holopin.io/@anni20211)
 
+
+<summary><b> LeetCode Stats </b></summary>
+<br></br>
+
+![](https://leetcard.jacoblin.cool/Vaibhav_Pathak_20/?ext=heatmap)
+
+
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
