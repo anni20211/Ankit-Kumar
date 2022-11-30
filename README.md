@@ -45,3 +45,12 @@
 <img align ="center" src="https://github-readme-stats.vercel.app/api?username=anni20211&show_icons=true&theme=dark"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anni20211&theme=dark" alt="anni20211" /></p>
+
+<summary><b> Holopin Badge Board </b></summary>
+
+[![@anni20211's Holopin board](https://holopin.me/anni20211)](https://holopin.io/@anni20211)
+
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+ ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
