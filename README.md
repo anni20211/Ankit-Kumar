@@ -59,6 +59,10 @@
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
+<summary>
+
 ![Snake animation](https://github.com/anni20211/anni20211/blob/output/github-contribution-grid-snake.svg)
+  
+  </summary>
 
 
