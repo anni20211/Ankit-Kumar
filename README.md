@@ -21,9 +21,7 @@
 
 <p align="left"> <a href="https://twitter.com/ankit kumar" target="blank"><img src="https://img.shields.io/twitter/follow/ankit kumar?logo=twitter&style=for-the-badge" alt="ankit kumar" /></a> </p>
 
-- 🔭 I’m currently working on **ECOMMERCE FULL STACK WEBSITE**
-
-- 🌱 I’m currently learning **blockchain**
+- 🔭 I’m have recently compeleted my project on full stack and hosted it**
 
 - 💬 Ask me about **react,express.js,node.js,mongodb,css javascript ,html etc**
 
